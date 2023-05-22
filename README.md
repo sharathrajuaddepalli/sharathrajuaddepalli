@@ -1,7 +1,6 @@
 # Sharath Kumar Raju Addepalli
 
 ## Contact Information
-- Phone: +1 (352) 709-8695
 - Email: sharathrajuaddepalli@gmail.com
 - LinkedIn: [linkedin.com/in/sharath-kumar-raju-addepalli/](#)
 
