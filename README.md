@@ -1,11 +1,9 @@
-### Hi there 👋
-
 Sharath Kumar Raju Addepalli
 LinkedIn: linkedin.com/in/sharath-kumar-raju-addepalli/
-Education:
+Education
 Master of Science in Computer Science, University of Florida, Gainesville, Florida (Aug 2022 – May 2024)
 Bachelor of Technology in Computer Science, SASTRA University, Thanjavur, India (Jul 2017 – May 2021)
-Skills:
+Skills
 Programming Languages: C/C++, Java, HTML, CSS, SQL, Javascript, Python, HTL, Erlang
 Frameworks: MySQL, SpringBoot, Angular, React, JavaEE, Hibernate, DuckDB
 Tools: Postman, Figma, Adobe Experience Manager, AWS
@@ -39,5 +37,3 @@ Dean’s list of exceptional students and received a scholarship while pursuing 
 Received a scholarship award of $4500 for academic achievement
 Interests
 Problem-Solving, Full Stack Development, Data Structures, and Algorithms
-
-
