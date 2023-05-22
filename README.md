@@ -1,14 +1,11 @@
 ### Hi there 👋
 
 Sharath Kumar Raju Addepalli
-Contact Information
-Phone: +1 (352) 709-8695
-Email: sharathrajuaddepalli@gmail.com
 LinkedIn: linkedin.com/in/sharath-kumar-raju-addepalli/
-Education
+Education:
 Master of Science in Computer Science, University of Florida, Gainesville, Florida (Aug 2022 – May 2024)
 Bachelor of Technology in Computer Science, SASTRA University, Thanjavur, India (Jul 2017 – May 2021)
-Skills
+Skills:
 Programming Languages: C/C++, Java, HTML, CSS, SQL, Javascript, Python, HTL, Erlang
 Frameworks: MySQL, SpringBoot, Angular, React, JavaEE, Hibernate, DuckDB
 Tools: Postman, Figma, Adobe Experience Manager, AWS
