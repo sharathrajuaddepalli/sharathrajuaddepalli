@@ -2,7 +2,7 @@
 
 ## Contact Information
 - Email: sharathrajuaddepalli@gmail.com
-- [(https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F174%2F174857.png&tbnid=JdyXos__tp7KHM&vet=12ahUKEwjj-fTWu4n_AhW2cTABHYMNBHQQMygAegUIARDrAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&docid=vLBuaTBzrfpOUM&w=512&h=512&q=linkedin%20logo&ved=2ahUKEwjj-fTWu4n_AhW2cTABHYMNBHQQMygAegUIARDrAQ)](https://www.linkedin.com/in/sharath-kumar-raju-addepalli/)
+- [LinkedIn](https://www.linkedin.com/in/sharath-kumar-raju-addepalli/)
 
 ## Education
 - Master of Science in Computer Science, University of Florida, Gainesville, Florida (Aug 2022 – May 2024)
